@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsmichaelhagen
 - 👀 I’m interested in ... Data Analytics, Web Development, Software Development, and Game Development
-- 🌱 I’m currently learning ... R, SQL, and Javascript
+- 🌱 I’m currently learning ... Different ways to use R
 - 💞️ I’m looking to collaborate on ... any data analytics projects!
 - 📫 How to reach me ... DM or email mikephagen@gmail.com
 - 😄 Pronouns: ... He/Him
